@@ -2,15 +2,10 @@
 Assignment details:
 
 Name- Bhavya Rattan 
-
 Roll no-2401201004
-
 Course-BCA(AI&DS)
-
 Subject- Java Programming
-
 Assignment no-1 
-
 Project Title -Banking Application for Account Management 
 
 Problem Statement: 
