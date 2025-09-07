@@ -1,7 +1,10 @@
 # Java_Assignment_1
-Name- Bhavya Rattan
+Name- Bhavya Rattan 
+
 Roll no-2401201004
+
 Course-BCA(AI&DS)
+
 Subject- Java Programming
 
 ASSIGNMENT DETAILS 
